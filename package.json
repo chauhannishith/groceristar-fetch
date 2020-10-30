@@ -43,7 +43,7 @@
     "rollup-plugin-commonjs": "10.1.0",
     "rollup-plugin-node-builtins": "2.1.2",
     "rollup-plugin-node-resolve": "5.2.0",
-    "shx": "0.3.2",
+    "shx": "0.3.3",
     "standard": "14.3.1",
     "travis": "0.1.1"
   },
